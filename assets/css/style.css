@@ -160,6 +160,9 @@ h6 {
 .header-social-links a:hover {
   color: #34b7a7;
 }
+.header-social-links a img{
+height:19px;
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
