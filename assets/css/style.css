@@ -128,7 +128,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #222222;
+  color: #605d5d;
 }
 
 #header .logo img {
@@ -148,7 +148,7 @@ h6 {
   padding-right: 15px;
 }
 
-.header-social-links a {
+.header-social-links a ,img {
   color: #6f6f6f;
   padding-left: 6px;
   display: inline-block;
@@ -161,8 +161,11 @@ h6 {
   color: #34b7a7;
 }
 .header-social-links a img{
-height:19px;
+height: 18px;
+color: #6f6f6f;
+display: inline-flex;
 }
+
 
 /*--------------------------------------------------------------
 # Navigation Menu
